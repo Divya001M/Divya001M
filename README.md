@@ -24,7 +24,9 @@ Currently, I am actively seeking opportunities to grow further in the field of d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![SPSS](https://img.shields.io/badge/SPSS-005A9C?style=for-the-badge&logo=ibm&logoColor=white)  
+![SPSS](https://img.shields.io/badge/SPSS-005A9C?style=for-the-badge&logo=ibm&logoColor=white)   
+![IBM Modeler](https://img.shields.io/badge/IBM%20Modeler-052FAD?style=for-the-badge&logo=ibm&logoColor=white)  
+
 
 ### ☁️ Big Data & Cloud  
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
